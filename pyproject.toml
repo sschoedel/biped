@@ -1,0 +1,10 @@
+[project]
+name = "biped"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mujoco>=3.3.5",
+    "onshape-to-robot>=1.7.7",
+]
